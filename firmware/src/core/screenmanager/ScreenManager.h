@@ -3,6 +3,7 @@
 
 // Include any necessary libraries here
 #include "config_helper.h"
+#include "lvgl.h"
 #include "ttf-fonts.h"
 #include <OpenFontRender.h>
 #include <SPI.h>
